@@ -1,0 +1,1 @@
+inheritance go here
